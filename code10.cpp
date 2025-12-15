@@ -1,4 +1,4 @@
-// check if prime or not
+// check if prime or not 
 #include <iostream>
 using namespace std;
 
